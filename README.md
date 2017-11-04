@@ -8,6 +8,6 @@ Copy sendcommand.py to your Packages directory
 ```
 [
     {"keys" : ["ctrl+alt+r"],"command" : "send_command", "args" : {"cmd" : "nautilus"}},
-     {"keys" : ["ctrl+alt+t"],"command" : "after_save_action", "args" : {"cmd" : "cmd.exe /c exit"}}
+    {"keys" : ["ctrl+alt+t"],"command" : "send_command", "args" : {"cmd" : "cmd.exe /c exit"}}
 ]
 ```
