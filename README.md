@@ -2,7 +2,7 @@
 Run a system command with sublime
 
 # Install
-Copy sendcommand.py to your Packages directory
+Copy sendcommand.py to your user Packages directory
 
 # Key Binding
 ```
